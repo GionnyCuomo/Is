@@ -18,4 +18,7 @@ public class Calcolatrice {
     public int Divisione(){
         return x/y;
     }
-}
+    public int Modulo()
+    {
+        return x%y;
+    }}
